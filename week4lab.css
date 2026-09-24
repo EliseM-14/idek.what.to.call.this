@@ -1,0 +1,22 @@
+.imagespace {
+    padding: 15px;
+}
+.paragraph {
+    padding-left: 160px;
+    padding-right: 160px;
+}
+.explore {
+    font-size: large;
+    color: rgb(16, 165, 98);
+}
+.home {
+    font-size: large;
+    color: rgb(167, 22, 22);
+}
+.font {
+    font-family: cursive;
+    font-weight: bold;
+}
+.fishers {
+    padding-top: 10px;
+}
